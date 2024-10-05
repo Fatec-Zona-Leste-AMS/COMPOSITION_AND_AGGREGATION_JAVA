@@ -22,7 +22,7 @@ class Equipe {
         this.jogadores = new ArrayList<>();
     }
 
-    public String getNome() { // Adicionando o getter para acessar o nome
+    public String getNome() {
         return nome;
     }
 
